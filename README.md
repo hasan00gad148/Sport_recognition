@@ -10,8 +10,8 @@ Training Accuracy 96%
 Validation Accuracy 94% 
 Test Accuracy 85%
 ## Preprocessing "data augmentation"
-using imgaug library
-Affine transformation random rotate, random scale and random translate
-random horizontal flip
-random brightness change 
-random contrast
+### using imgaug library
+- Affine transformation random rotate, random scale and random translate
+- random horizontal flip
+- random brightness change 
+- random contrast
